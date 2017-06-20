@@ -6,12 +6,14 @@ iutest
 |AppVeyor|
 |CoverityScan|
 |Codeship|
+|WerckerLarge|
 |Wercker|
 |Shippable|
 |Semaphore|
 |Codefresh|
 |Bitrise|
 |CircleCI|
+|ScrutinizerScore|
 |Scrutinizer|
 |SnapCI|
 
@@ -63,6 +65,9 @@ iutest
    :target: https://app.wercker.com/project/bykey/d385156052aa4118a7f24affe4a8f851
    :height: 50px
    
+.. |WerckerLarge| image:: https://app.wercker.com/status/d385156052aa4118a7f24affe4a8f851/m/master?.svg
+   :target: https://app.wercker.com/project/bykey/d385156052aa4118a7f24affe4a8f851
+   
 .. |Shippable| image:: https://api.shippable.com/projects/541904d2ac22859af743f867/badge?branch=master&.svg
    :target: https://app.shippable.com/github/srz-zumix/iutest
    :height: 50px
@@ -84,6 +89,10 @@ iutest
    :height: 50px
    
 .. |Scrutinizer| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/build.png?b=master&.svg
+   :target: https://scrutinizer-ci.com/g/srz-zumix/iutest/build-status/master
+   :height: 50px
+
+.. |ScrutinizerScore| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/quality-score.png?b=master&.svg
    :target: https://scrutinizer-ci.com/g/srz-zumix/iutest/build-status/master
    :height: 50px
 
