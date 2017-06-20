@@ -13,9 +13,9 @@ iutest
 |Codefresh|
 |Bitrise|
 |CircleCI|
+|SnapCI|
 |ScrutinizerScore|
 |Scrutinizer|
-|SnapCI|
 
 |Coveralls|
 |Codecov|
