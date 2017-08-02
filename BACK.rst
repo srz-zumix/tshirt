@@ -13,7 +13,6 @@ iutest
 |Codefresh|
 |Bitrise|
 |CircleCI|
-|SnapCI|
 |ScrutinizerScore|
 |Scrutinizer|
 
