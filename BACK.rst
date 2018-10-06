@@ -65,26 +65,14 @@ iutest
    :target: https://cirrus-ci.com/github/srz-zumix/iutest/master
    :height: 50px
 
-.. |Codecov| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graph/badge.svg?height=50&.svg
-   :target: https://codecov.io/gh/srz-zumix/iutest
-   :height: 50px
-   
-.. |CodecovGraph| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/icicle.svg
-   :target: https://codecov.io/gh/srz-zumix/iutest
-   :height: 300px
-
-.. |Codefresh| image:: https://g.codefresh.io/api/badges/build?repoOwner=srz-zumix&repoName=iutest&branch=master&pipelineName=iutest&accountName=srz-zumix&type=cf-1&.svg
-   :target: https://g.codefresh.io/repositories/srz-zumix/iutest/builds?filter=trigger:build;branch:master;service:58a933be9d1bd40100495882~iutest
+.. |Codefresh| image:: https://g.codefresh.io/api/badges/pipeline/srz-zumix/srz-zumix%2Fiutest-test%2Fiutest-test?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NThhNTFmYzlkZjcwMWYwMTAwNjNlYjY3.U-q8LiP3IK9DLygcIx5UOa015KH690k8u3uiLINI9tw&type=cf-1&.svg
+   :target: https://g.codefresh.io/repositories/srz-zumix/iutest-test/builds?filter=trigger:build;branch:master;service:5b68ea9c5904b846f871a6c2~iutest-test
    :height: 50px
 
 .. |Codeship| image:: https://codeship.com/projects/5bc87030-5b41-0133-6000-4242aa07dce3/status?branch=master&.svg
    :target: https://codeship.com/projects/110695
    :height: 50px
 
-.. |Coveralls| image:: https://coveralls.io/repos/github/srz-zumix/iutest/badge.svg?branch=master&.svg
-   :target: https://coveralls.io/github/srz-zumix/iutest?branch=master
-   :height: 50px
-   
 .. |CoverityScan| image:: https://scan.coverity.com/projects/1316/badge.svg
    :target: https://scan.coverity.com/projects/srz-zumix-iutest
    :height: 50px
@@ -119,4 +107,16 @@ iutest
    
 .. |WerckerLarge| image:: https://app.wercker.com/status/d385156052aa4118a7f24affe4a8f851/m/master?.svg
    :target: https://app.wercker.com/project/bykey/d385156052aa4118a7f24affe4a8f851
+
+.. |Codecov| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graph/badge.svg?height=50&.svg
+   :target: https://codecov.io/gh/srz-zumix/iutest
+   :height: 50px
+   
+.. |CodecovGraph| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/icicle.svg
+   :target: https://codecov.io/gh/srz-zumix/iutest
+   :height: 300px
+
+.. |Coveralls| image:: https://coveralls.io/repos/github/srz-zumix/iutest/badge.svg?branch=master&.svg
+   :target: https://coveralls.io/github/srz-zumix/iutest?branch=master
+   :height: 50px
    
