@@ -31,7 +31,7 @@ iutest
 | 
 | 
 
-|CodecovGraph|
+|CodecovGraphSunburst|
 
 
 | 
@@ -138,6 +138,10 @@ iutest
    :height: 50px
    
 .. |CodecovGraph| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/icicle.svg
+   :target: https://codecov.io/gh/srz-zumix/iutest
+   :height: 300px
+
+.. |CodecovGraphSunburst| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/sunburst.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
    :height: 300px
 
