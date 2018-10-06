@@ -10,6 +10,7 @@ iutest
 |Codefresh|
 |Codeship|
 |CoverityScan|
+|INSPECODE|
 |ScrutinizerScore|
 |Scrutinizer|
 |Semaphore|
@@ -76,6 +77,10 @@ iutest
 
 .. |Codeship| image:: https://codeship.com/projects/5bc87030-5b41-0133-6000-4242aa07dce3/status?branch=master&.svg
    :target: https://codeship.com/projects/110695
+   :height: 50px
+
+.. |INSPECODE| image:: https://inspecode.rocro.com/badges/github.com/srz-zumix/iutest/status?token=wt0KUnRUG1-Ul2mLrg8ComR1RznZV3VoXecBJHW0EIk&branch=master&.svg
+   :target: https://inspecode.rocro.com/jobs/github.com/srz-zumix/iutest/latest?completed=true&branch=master
    :height: 50px
 
 .. |CoverityScan| image:: https://scan.coverity.com/projects/1316/badge.svg
