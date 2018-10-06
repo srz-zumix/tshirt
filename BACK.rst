@@ -143,7 +143,7 @@ iutest
 
 .. |CodecovGraphSunburst| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/sunburst.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
-   :height: 300px
+   :height: 600px
 
 .. |Coveralls| image:: https://coveralls.io/repos/github/srz-zumix/iutest/badge.svg?branch=master&.svg
    :target: https://coveralls.io/github/srz-zumix/iutest?branch=master
