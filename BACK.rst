@@ -53,7 +53,7 @@ iutest
    :target: https://ci.appveyor.com/project/srz-zumix/iutest/branch/master
    :height: 50px
 
-.. |Bitrise| image:: https://app.bitrise.io/app/a1525fe176d85f53/status.svg?token=C67enKOhen9rjw_Cl37ihA&branch=master
+.. |Bitrise| image:: https://app.bitrise.io/app/a1525fe176d85f53/status.svg?token=C67enKOhen9rjw_Cl37ihA&branch=master&.svg
    :target: https://app.bitrise.io/app/a1525fe176d85f53
    :height: 50px
    
@@ -61,7 +61,7 @@ iutest
    :target: https://circleci.com/gh/srz-zumix/iutest/tree/master
    :height: 50px
    
-.. |CirrusCI| image:: https://api.cirrus-ci.com/github/srz-zumix/iutest.svg?branch=master
+.. |CirrusCI| image:: https://api.cirrus-ci.com/github/srz-zumix/iutest.svg?branch=master&.svg
    :target: https://cirrus-ci.com/github/srz-zumix/iutest/master
    :height: 50px
 
