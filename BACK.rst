@@ -2,19 +2,20 @@
 iutest
 =========
 
-|TravisCI|
 |AppVeyor|
-|CoverityScan|
-|Codeship|
-|WerckerLarge|
-|Wercker|
-|Shippable|
-|Semaphore|
-|Codefresh|
 |Bitrise|
 |CircleCI|
+|CirrusCI|
+|Codefresh|
+|Codeship|
+|CoverityScan|
 |ScrutinizerScore|
 |Scrutinizer|
+|Semaphore|
+|Shippable|
+|TravisCI|
+|WerckerLarge|
+|Wercker|
 
 |Coveralls|
 |Codecov|
@@ -60,6 +61,10 @@ iutest
    :target: https://circleci.com/gh/srz-zumix/iutest/tree/master
    :height: 50px
    
+.. |CirrusCI| image:: https://api.cirrus-ci.com/github/srz-zumix/iutest.svg?branch=master
+   :target: https://cirrus-ci.com/github/srz-zumix/iutest/master
+   :height: 50px
+
 .. |Codecov| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graph/badge.svg?height=50&.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
    :height: 50px
