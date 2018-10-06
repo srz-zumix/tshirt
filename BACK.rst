@@ -4,6 +4,7 @@ iutest
 
 |AppVeyor|
 |Bitrise|
+|Buddy|
 |CircleCI|
 |CirrusCI|
 |Codefresh|
@@ -57,6 +58,10 @@ iutest
    :target: https://app.bitrise.io/app/a1525fe176d85f53
    :height: 50px
    
+.. |Buddy| image:: https://app.buddy.works/zumixcpp/iutest/repository/branch/master/badge.svg?token=5e58135ab4831252209e7b1fe75bfe9de669b0dc7e95ed4316eebad2187d59a0&.svg
+   :target: https://app.buddy.works/zumixcpp/iutest/repository/branch/master
+   :height: 50px
+
 .. |CircleCI| image:: https://circleci.com/gh/srz-zumix/iutest/tree/master.svg?style=svg&.svg
    :target: https://circleci.com/gh/srz-zumix/iutest/tree/master
    :height: 50px
