@@ -7,6 +7,7 @@ iutest
 |Buddy|
 |CircleCI|
 |CirrusCI|
+|Codacy|
 |Codefresh|
 |Codeship|
 |CoverityScan|
@@ -69,6 +70,10 @@ iutest
    
 .. |CirrusCI| image:: https://api.cirrus-ci.com/github/srz-zumix/iutest.svg?branch=master&.svg
    :target: https://cirrus-ci.com/github/srz-zumix/iutest/master
+   :height: 50px
+
+.. |Codacy| image:: https://api.codacy.com/project/badge/Grade/e6407b63c9c844d080ed71c7707bded9?branch=master&.svg
+   :target: https://www.codacy.com/app/srz-zumix/iutest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=srz-zumix/iutest&amp;utm_campaign=Badge_Grade
    :height: 50px
 
 .. |Codefresh| image:: https://g.codefresh.io/api/badges/pipeline/srz-zumix/srz-zumix%2Fiutest-test%2Fiutest-test?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NThhNTFmYzlkZjcwMWYwMTAwNjNlYjY3.U-q8LiP3IK9DLygcIx5UOa015KH690k8u3uiLINI9tw&type=cf-1&.svg
