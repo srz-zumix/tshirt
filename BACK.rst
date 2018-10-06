@@ -7,18 +7,20 @@ iutest
 |Buddy|
 |CircleCI|
 |CirrusCI|
-|Codacy|
 |Codefresh|
 |Codeship|
 |CoverityScan|
 |INSPECODE|
-|ScrutinizerScore|
 |Scrutinizer|
 |Semaphore|
 |Shippable|
 |TravisCI|
 |WerckerLarge|
 |Wercker|
+
+|Codacy|
+|INSPECODEScore|
+|ScrutinizerScore|
 
 |Coveralls|
 |Codecov|
@@ -72,10 +74,6 @@ iutest
    :target: https://cirrus-ci.com/github/srz-zumix/iutest/master
    :height: 50px
 
-.. |Codacy| image:: https://api.codacy.com/project/badge/Grade/e6407b63c9c844d080ed71c7707bded9?branch=master&.svg
-   :target: https://www.codacy.com/app/srz-zumix/iutest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=srz-zumix/iutest&amp;utm_campaign=Badge_Grade
-   :height: 50px
-
 .. |Codefresh| image:: https://g.codefresh.io/api/badges/pipeline/srz-zumix/srz-zumix%2Fiutest-test%2Fiutest-test?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NThhNTFmYzlkZjcwMWYwMTAwNjNlYjY3.U-q8LiP3IK9DLygcIx5UOa015KH690k8u3uiLINI9tw&type=cf-1&.svg
    :target: https://g.codefresh.io/repositories/srz-zumix/iutest-test/builds?filter=trigger:build;branch:master;service:5b68ea9c5904b846f871a6c2~iutest-test
    :height: 50px
@@ -93,10 +91,6 @@ iutest
    :height: 50px
 
 .. |Scrutinizer| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/build.png?b=master&.svg
-   :target: https://scrutinizer-ci.com/g/srz-zumix/iutest/build-status/master
-   :height: 50px
-
-.. |ScrutinizerScore| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/quality-score.png?b=master&.svg
    :target: https://scrutinizer-ci.com/g/srz-zumix/iutest/build-status/master
    :height: 50px
 
@@ -122,6 +116,22 @@ iutest
    
 .. |WerckerLarge| image:: https://app.wercker.com/status/d385156052aa4118a7f24affe4a8f851/m/master?.svg
    :target: https://app.wercker.com/project/bykey/d385156052aa4118a7f24affe4a8f851
+
+
+
+.. |Codacy| image:: https://api.codacy.com/project/badge/Grade/e6407b63c9c844d080ed71c7707bded9?branch=master&.svg
+   :target: https://www.codacy.com/app/srz-zumix/iutest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=srz-zumix/iutest&amp;utm_campaign=Badge_Grade
+   :height: 50px
+
+.. |INSPECODEScore| image:: https://inspecode.rocro.com/badges/github.com/srz-zumix/iutest/report?token=wt0KUnRUG1-Ul2mLrg8ComR1RznZV3VoXecBJHW0EIk&branch=master&.svg
+   :target: https://inspecode.rocro.com/reports/github.com/srz-zumix/iutest/branch/master/summary
+   :height: 50px
+
+.. |ScrutinizerScore| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/quality-score.png?b=master&.svg
+   :target: https://scrutinizer-ci.com/g/srz-zumix/iutest/build-status/master
+   :height: 50px
+
+
 
 .. |Codecov| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graph/badge.svg?height=50&.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
