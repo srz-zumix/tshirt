@@ -51,7 +51,7 @@ iutest
    :target: https://badge.fury.io/nu/iutest
    :height: 50px
    
-.. |QR| image:: qrcode.png
+.. |QR| image:: images/qrcode/qrcode.png
    :target: https://github.com/srz-zumix/iutest
    
 .. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/2gdmgo8ce8m0iy0e/branch/master?svg=true&.svg
