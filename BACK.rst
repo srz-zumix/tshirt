@@ -140,10 +140,12 @@ iutest
 .. |CodecovGraph| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/icicle.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
    :height: 300px
+   :align: center
 
 .. |CodecovGraphSunburst| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/sunburst.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
    :height: 600px
+   :align: center
 
 .. |Coveralls| image:: https://coveralls.io/repos/github/srz-zumix/iutest/badge.svg?branch=master&.svg
    :target: https://coveralls.io/github/srz-zumix/iutest?branch=master
