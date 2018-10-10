@@ -31,9 +31,7 @@ iutest
 | 
 | 
 
-.. image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/sunburst.svg
-   :align: center
-   
+|CodecovGraphSunburst|   
 
 | 
 | 
@@ -144,7 +142,7 @@ iutest
 
 .. |CodecovGraphSunburst| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/sunburst.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
-   :height: 600px
+   :height: 800px
 
 .. |Coveralls| image:: https://coveralls.io/repos/github/srz-zumix/iutest/badge.svg?branch=master&.svg
    :target: https://coveralls.io/github/srz-zumix/iutest?branch=master
