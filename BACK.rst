@@ -16,7 +16,6 @@ iutest
 |Shippable|
 |TravisCI|
 |WerckerLarge|
-|Wercker|
 
 |Codacy|
 |INSPECODEScore|
