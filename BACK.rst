@@ -57,8 +57,8 @@ iutest
    :target: https://ci.appveyor.com/project/srz-zumix/iutest/branch/master
    :height: 50px
 
-.. |Bitrise| image:: https://app.bitrise.io/app/a1525fe176d85f53/status.svg?token=C67enKOhen9rjw_Cl37ihA&branch=master&.svg
-   :target: https://app.bitrise.io/app/a1525fe176d85f53
+.. |Bitrise| image:: https://app.bitrise.io/app/6903498632e89465/status.svg?token=siumhVNY6p6lklSZF6xGNA&branch=master&.svg
+   :target: https://app.bitrise.io/app/6903498632e89465
    :height: 50px
    
 .. |Buddy| image:: https://app.buddy.works/zumixcpp/iutest/repository/branch/master/badge.svg?token=5e58135ab4831252209e7b1fe75bfe9de669b0dc7e95ed4316eebad2187d59a0&.svg
@@ -99,10 +99,6 @@ iutest
    
 .. |Shippable| image:: https://api.shippable.com/projects/541904d2ac22859af743f867/badge?branch=master&.svg
    :target: https://app.shippable.com/github/srz-zumix/iutest
-   :height: 50px
-   
-.. |SnapCI| image:: https://snap-ci.com/srz-zumix/iutest/branch/master/build_image?.svg
-   :target: https://snap-ci.com/srz-zumix/iutest/branch/master
    :height: 50px
    
 .. |TravisCI| image:: https://travis-ci.org/srz-zumix/iutest.svg?branch=master&.svg
