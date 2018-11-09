@@ -10,6 +10,7 @@ iutest
 |Codefresh|
 |Codeship|
 |CoverityScan|
+|GitLabCI|
 |INSPECODE|
 |Scrutinizer|
 |Semaphore|
@@ -78,6 +79,10 @@ iutest
 
 .. |Codeship| image:: https://codeship.com/projects/5bc87030-5b41-0133-6000-4242aa07dce3/status?branch=master&.svg
    :target: https://codeship.com/projects/110695
+   :height: 50px
+
+.. |GitLabCI| image:: https://gitlab.com/srz-zumix/iutest-test/badges/master/pipeline.svg
+   :target: https://gitlab.com/srz-zumix/iutest-test/commits/master
    :height: 50px
 
 .. |INSPECODE| image:: https://inspecode.rocro.com/badges/github.com/srz-zumix/iutest/status?token=wt0KUnRUG1-Ul2mLrg8ComR1RznZV3VoXecBJHW0EIk&branch=master&.svg
