@@ -10,6 +10,7 @@ iutest
 |CirrusCI|
 |Codefresh|
 |Codeship|
+|GitHubActions|
 |GitLabCI|
 |INSPECODE|
 |Scrutinizer|
@@ -85,6 +86,10 @@ iutest
 
 .. |Codeship| image:: https://codeship.com/projects/5bc87030-5b41-0133-6000-4242aa07dce3/status?branch=master&.svg
    :target: https://codeship.com/projects/110695
+   :height: 50px
+
+.. |GitHubActions| image:: https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/srz-zumix/iutest&.svg
+   :target: https://github.com/srz-zumix/iutest/actions
    :height: 50px
 
 .. |GitLabCI| image:: https://gitlab.com/srz-zumix/iutest-test/badges/master/pipeline.svg
