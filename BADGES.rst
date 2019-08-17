@@ -88,7 +88,7 @@ iutest
    :target: https://codeship.com/projects/110695
    :height: 50px
 
-.. |GitHubActions| image:: https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/srz-zumix/iutest&.svg
+.. |GitHubActions| image:: https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/srz-zumix/iutest?.svg
    :target: https://github.com/srz-zumix/iutest/actions
    :height: 50px
 
