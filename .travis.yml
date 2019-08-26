@@ -7,6 +7,7 @@ before_script:
   - gem install awesome_bot
 
 script:
-  - awesome_bot BADGES.rst --allow-redirect --allow-ssl --allow-dupe
+  - awesome_bot BADGES.rst --allow-redirect --allow-ssl --allow-dupe -w github.com/srz-zumix/iutest/actions
+  - awesome_bot BADGES-v.rst --allow-redirect --allow-ssl --allow-dupe -w github.com/srz-zumix/iutest/actions
   - awesome_bot LOVECI.rst --allow-redirect --allow-ssl --allow-dupe
   - awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
