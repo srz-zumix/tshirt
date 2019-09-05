@@ -27,6 +27,8 @@ iutest
 
 |Codeship|
 
+|DroneCloud|
+
 |GitHubActions|
 
 |GitLabCI|
@@ -110,6 +112,10 @@ iutest
 
 .. |Codeship| image:: https://codeship.com/projects/5bc87030-5b41-0133-6000-4242aa07dce3/status?branch=master&.svg
    :target: https://codeship.com/projects/110695
+   :height: 50px
+
+.. |DroneCloud| image:: https://cloud.drone.io/api/badges/srz-zumix/iutest/status.svg?branch=master&.svg
+   :target: https://cloud.drone.io/srz-zumix/iutest
    :height: 50px
 
 .. |GitHubActions| image:: https://github.com/srz-zumix/iutest/workflows/GitHub%20Actions/badge.svg

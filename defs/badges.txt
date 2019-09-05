@@ -41,6 +41,10 @@
    :target: https://codeship.com/projects/110695
    :height: 50px
 
+.. |DroneCloud| image:: https://cloud.drone.io/api/badges/srz-zumix/iutest/status.svg?branch=master&.svg
+   :target: https://cloud.drone.io/srz-zumix/iutest
+   :height: 50px
+
 .. |GitLabCI| image:: https://gitlab.com/srz-zumix/iutest-test/badges/master/pipeline.svg
    :target: https://gitlab.com/srz-zumix/iutest-test/commits/master
    :height: 50px
