@@ -35,6 +35,8 @@ iutest
 
 |INSPECODE|
 
+|Peakflow|
+
 |Scrutinizer|
 
 |Semaphore|
@@ -128,6 +130,10 @@ iutest
 
 .. |INSPECODE| image:: https://inspecode.rocro.com/badges/github.com/srz-zumix/iutest/status?token=wt0KUnRUG1-Ul2mLrg8ComR1RznZV3VoXecBJHW0EIk&branch=master&.svg
    :target: https://inspecode.rocro.com/jobs/github.com/srz-zumix/iutest/latest?completed=true&branch=master
+   :height: 50px
+
+.. |Peakflow| image:: https://www.peakflow.io/en/projects/ci-specs/branch-statuses/master.svg
+   :target: https://www.peakflow.io/en/projects/ci-specs/build-groups
    :height: 50px
 
 .. |Scrutinizer| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/build.png?b=master&.svg
