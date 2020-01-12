@@ -16,7 +16,7 @@ iutest
 |INSPECODE|
 |Peakflow|
 |Scrutinizer|
-|Semaphore|
+|Semaphore 2|
 |Shippable|
 |TravisCI|
 |WerckerLarge|
@@ -36,7 +36,7 @@ iutest
 | 
 | 
 
-|CodecovGraphSunburst|   
+|CodecovGraphSunburst|
 
 | 
 | 
@@ -50,14 +50,14 @@ iutest
 .. |License| image:: https://img.shields.io/badge/license-New_BSD-blue.svg?height=50&.svg
    :target: http://opensource.org/licenses/BSD-3-Clause
    :height: 50px
-   
+
 .. |NuGet| image:: https://badge.fury.io/nu/iutest.svg?height=50&.svg
    :target: https://badge.fury.io/nu/iutest
    :height: 50px
-   
+
 .. |QR| image:: images/qrcode/qrcode.png
    :target: https://github.com/srz-zumix/iutest
-   
+
 .. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/2gdmgo8ce8m0iy0e/branch/master?svg=true&.svg
    :target: https://ci.appveyor.com/project/srz-zumix/iutest/branch/master
    :height: 50px
@@ -69,7 +69,7 @@ iutest
 .. |Bitrise| image:: https://app.bitrise.io/app/6903498632e89465/status.svg?token=siumhVNY6p6lklSZF6xGNA&branch=master&.svg
    :target: https://app.bitrise.io/app/6903498632e89465
    :height: 50px
-   
+
 .. |Buddy| image:: https://app.buddy.works/zumixcpp/iutest/repository/branch/master/badge.svg?token=5e58135ab4831252209e7b1fe75bfe9de669b0dc7e95ed4316eebad2187d59a0&.svg
    :target: https://app.buddy.works/zumixcpp/iutest/repository/branch/master
    :height: 50px
@@ -77,12 +77,12 @@ iutest
 .. |CircleCI| image:: https://circleci.com/gh/srz-zumix/iutest/tree/master.svg?style=svg&.svg
    :target: https://circleci.com/gh/srz-zumix/iutest/tree/master
    :height: 50px
-   
+
 .. |CirrusCI| image:: https://api.cirrus-ci.com/github/srz-zumix/iutest.svg?branch=master&.svg
    :target: https://cirrus-ci.com/github/srz-zumix/iutest/master
    :height: 50px
 
-.. |Codefresh| image:: https://g.codefresh.io/api/badges/pipeline/srz-zumix/srz-zumix%2Fiutest%2Fiutest_unittest?branch=master&type=cf-1&.svg
+.. |Codefresh| image:: https://g.codefresh.io/api/badges/pipeline/srz-zumix/iutest%2Fiutest_unittest?branch=master&type=cf-2&.svg
    :target: https://g.codefresh.io/pipelines/iutest_unittest/builds?repoOwner=srz-zumix&repoName=iutest&serviceName=srz-zumix%2Fiutest&filter=trigger:build~Build;branch:master;pipeline:58a933be9d1bd40100495882~iutest_unittest
    :height: 50px
 
@@ -117,11 +117,15 @@ iutest
 .. |Semaphore| image:: https://semaphoreci.com/api/v1/srz_zumix/iutest/branches/master/badge.svg
    :target: https://semaphoreci.com/srz_zumix/iutest
    :height: 50px
-   
+
+.. |Semaphore 2| image:: https://iutest.semaphoreci.com/badges/iutest/branches/master.svg
+   :target: https://iutest.semaphoreci.com/projects/iutest
+   :height: 50px
+
 .. |Shippable| image:: https://api.shippable.com/projects/541904d2ac22859af743f867/badge?branch=master&.svg
    :target: https://app.shippable.com/github/srz-zumix/iutest
    :height: 50px
-   
+
 .. |TravisCI| image:: https://travis-ci.com/srz-zumix/iutest.svg?branch=master&.svg
    :target: https://travis-ci.com/srz-zumix/iutest
    :height: 50px
@@ -129,7 +133,7 @@ iutest
 .. |Wercker| image:: https://app.wercker.com/status/d385156052aa4118a7f24affe4a8f851/s/master?.svg
    :target: https://app.wercker.com/project/bykey/d385156052aa4118a7f24affe4a8f851
    :height: 50px
-   
+
 .. |WerckerLarge| image:: https://app.wercker.com/status/d385156052aa4118a7f24affe4a8f851/m/master?.svg
    :target: https://app.wercker.com/project/bykey/d385156052aa4118a7f24affe4a8f851
 
@@ -160,7 +164,7 @@ iutest
 .. |Codecov| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graph/badge.svg?height=50&.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
    :height: 50px
-   
+
 .. |CodecovGraph| image:: https://codecov.io/gh/srz-zumix/iutest/branch/master/graphs/icicle.svg
    :target: https://codecov.io/gh/srz-zumix/iutest
    :height: 300px
@@ -172,4 +176,4 @@ iutest
 .. |Coveralls| image:: https://coveralls.io/repos/github/srz-zumix/iutest/badge.svg?branch=master&.svg
    :target: https://coveralls.io/github/srz-zumix/iutest?branch=master
    :height: 50px
-   
+
