@@ -10,6 +10,8 @@ name: GitHub Actions
 jobs:
   check:
     runs-on: ubuntu-latest
+    env:
+      ASESOME_BOT_OPTION: --allow-redirect --allow-ssl --allow-dupe -t 60
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
@@ -19,8 +21,8 @@ jobs:
         run: gem install awesome_bot
       - name: check
         run: |
-          awesome_bot BADGES.rst --allow-redirect --allow-ssl --allow-dupe -w github.com/srz-zumix/iutest/actions
-          awesome_bot BADGES-v.rst --allow-redirect --allow-ssl --allow-dupe -w github.com/srz-zumix/iutest/actions
-          awesome_bot LOVECI.rst --allow-redirect --allow-ssl --allow-dupe
-          awesome_bot README.md --allow-redirect --allow-ssl --allow-dupe
+          awesome_bot BADGES.rst   ${ASESOME_BOT_OPTION} -w github.com/srz-zumix/iutest/actions
+          awesome_bot BADGES-v.rst ${ASESOME_BOT_OPTION} -w github.com/srz-zumix/iutest/actions
+          awesome_bot LOVECI.rst   ${ASESOME_BOT_OPTION}
+          awesome_bot README.md    ${ASESOME_BOT_OPTION}
                 
