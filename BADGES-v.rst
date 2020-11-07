@@ -33,8 +33,6 @@ iutest
 
 |GitLabCI|
 
-|INSPECODE|
-
 |Peakflow|
 
 |Scrutinizer|
@@ -55,8 +53,6 @@ iutest
 |CoverityScan|
 
 |GuardRails|
-
-|INSPECODEScore|
 
 |ScrutinizerScore|
 
@@ -96,7 +92,7 @@ iutest
    :target: https://app.bitrise.io/app/6903498632e89465
    :height: 50px
 
-.. |Buddy| image:: https://app.buddy.works/zumixcpp/iutest/repository/branch/master/badge.svg?token=5e58135ab4831252209e7b1fe75bfe9de669b0dc7e95ed4316eebad2187d59a0&.svg
+.. |Buddy| image:: https://app.buddy.works/zumixcpp/iutest/repository/branch/master/badge.svg?token=a0d4d12b159d24a0234f9ed9567ebb40a6268f39f8151ef552999864674de564&.svg
    :target: https://app.buddy.works/zumixcpp/iutest/repository/branch/master
    :height: 50px
 
@@ -126,10 +122,6 @@ iutest
 
 .. |GitLabCI| image:: https://gitlab.com/srz-zumix/iutest-test/badges/master/pipeline.svg
    :target: https://gitlab.com/srz-zumix/iutest-test/commits/master
-   :height: 50px
-
-.. |INSPECODE| image:: https://inspecode.rocro.com/badges/github.com/srz-zumix/iutest/status?token=wt0KUnRUG1-Ul2mLrg8ComR1RznZV3VoXecBJHW0EIk&branch=master&.svg
-   :target: https://inspecode.rocro.com/jobs/github.com/srz-zumix/iutest/latest?completed=true&branch=master
    :height: 50px
 
 .. |Peakflow| image:: https://www.peakflow.io/en/projects/ci-specs/branch-statuses/master.svg
@@ -175,10 +167,6 @@ iutest
 
 .. |GuardRails| image:: https://badges.guardrails.io/srz-zumix/iutest.svg?token=fe1bb5ca5f743800d26e4d2b7282c5b316df83c0b228048f4192510bdd7280f0&.svg
    :target: https://dashboard.guardrails.io/default/gh/srz-zumix/iutest
-   :height: 50px
-
-.. |INSPECODEScore| image:: https://inspecode.rocro.com/badges/github.com/srz-zumix/iutest/report?token=wt0KUnRUG1-Ul2mLrg8ComR1RznZV3VoXecBJHW0EIk&branch=master&.svg
-   :target: https://inspecode.rocro.com/reports/github.com/srz-zumix/iutest/branch/master/summary
    :height: 50px
 
 .. |ScrutinizerScore| image:: https://scrutinizer-ci.com/g/srz-zumix/iutest/badges/quality-score.png?b=master&.svg

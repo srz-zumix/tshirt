@@ -3,10 +3,12 @@ on:
   push:
     branches:
       - master
-
+  schedule:
+    - cron:  '0 0 * * *'
+    
 name: GitHub Actions
 jobs:
-  review:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
