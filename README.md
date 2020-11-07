@@ -1,6 +1,6 @@
 # tshirt
 
-[![Build Status](https://travis-ci.com/srz-zumix/tshirt.svg?branch=master)](https://travis-ci.com/srz-zumix/tshirt)
+[![GitHub Actions](https://github.com/srz-zumix/tshirt/workflows/GitHub%20Actions/badge.svg)](https://github.com/srz-zumix/tshirt/actions?query=workflow%3A%22GitHub+Actions%22)
 
 ## About
 
